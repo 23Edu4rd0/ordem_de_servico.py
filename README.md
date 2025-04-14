@@ -15,7 +15,6 @@ Este projeto tem como objetivo gerar ordens de serviço em formato PDF para uma 
 - Python 3.10+
 - [ReportLab](https://www.reportlab.com/) para geração de PDFs
 - Flask (opcional) caso queira servir a aplicação via web
-- Instaloader (opcional) se houver integração com Instagram ou automação
 
 ## Instalação
 
